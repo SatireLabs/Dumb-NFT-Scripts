@@ -1,11 +1,10 @@
 ![header](header.jpg)
 
 # Is free dumb really free? Yes.
-Yo — Get your free Dumb CryptoPunks! Tweet at us [@DumbMeta](https://twitter.com/dumbmeta) or [@DumbCryptoPunks](https://twitter.com/dumbcryptopunks) or tag us in one of your photos on [IG](https://www.instagram.com/dumbcryptopunks/).
-
-This was encouraged by the [OG CryptoPunks tools dev](https://github.com/cryptopunksnotdead) ([reddit thread](https://www.reddit.com/r/dumbmeta/comments/ssfnc9/history_corner_dumb_solpunks_and_crypto_writing/))
-
-Too shy? Create an issue asking for one. Before we jack up the price to $420B (!!!): [OpenSea](https://opensea.io/collection/dumb-cryptopunks), [NFTrade](https://nftrade.com/assets/polygon/0x5dcb640be243ad3967649a4e85f66d3d7c1208ff).
+YO. Get your free Dumb CryptoPunk.
+Tweet to [@DumbMeta](https://twitter.com/dumbmeta) or [@DumbCryptoPunks](https://twitter.com/dumbcryptopunks). 😉
+ 
+ Too shy? Create an issue asking for one. Before we jack up the price to $420B (!!!): [OpenSea](https://opensea.io/collection/dumb-cryptopunks), [NFTrade](https://nftrade.com/assets/polygon/0x5dcb640be243ad3967649a4e85f66d3d7c1208ff). Special thanks to the [OG CryptoPunks tools dev](https://github.com/cryptopunksnotdead) ([reddit thread](https://www.reddit.com/r/dumbmeta/comments/ssfnc9/history_corner_dumb_solpunks_and_crypto_writing/))
 
 # Sloppy scripts for NFT devs
 *More useful & comprehensive NFT scripts may be added over time. Don't hold your breath.*
