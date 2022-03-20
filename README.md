@@ -1,5 +1,7 @@
 ![header](header.jpg)
 
+*More useful, less dumb NFT scripts may be added over time... Don't hold your breath.*
+
 # Is freedom really free? Yes.
 YO. Get your free Dumb CryptoPunk.
 Tweet to [@DumbMeta](https://twitter.com/dumbmeta) or [@DumbCryptoPunks](https://twitter.com/dumbcryptopunks). 😉
@@ -22,5 +24,3 @@ They are essentially hacker scripts - cobbled up and get the job done. They are 
 	- Hope this script saves you $3000. The only service that provides anything similar costs 1 ETH to use. Kinda expensive imo.
 
 You may run into some issues (eg nft-multisender.py does not implement checks for checksum addresses, no time.sleep > get_transaction_receipts). But these can be easily added.
-
-*More useful & comprehensive NFT scripts may be added over time... Don't hold your breath.*
