@@ -4,9 +4,9 @@
 
 # Is freedom really free? Yes.
 YO. Get your free Dumb CryptoPunk.
-Tweet to [@DumbMeta](https://twitter.com/dumbmeta) or [@DumbCryptoPunks](https://twitter.com/dumbcryptopunks). 😉
+Tweet to [@DumbMeta](https://twitter.com/dumbmeta) or [@DumbCryptoPunks](https://twitter.com/dumbcryptopunks).
  
- Too shy? Create an issue asking for one. Before we jack up the price to $420B (!!!): [OpenSea](https://opensea.io/collection/dumb-cryptopunks), [NFTrade](https://nftrade.com/assets/polygon/0x5dcb640be243ad3967649a4e85f66d3d7c1208ff).
+ Too shy? Create an issue asking for one. Get it before we jack up the price to $420B: [OpenSea](https://opensea.io/collection/dumb-cryptopunks), [NFTrade](https://nftrade.com/assets/polygon/0x5dcb640be243ad3967649a4e85f66d3d7c1208ff).
 
  Special thanks to the [OG CryptoPunks tools dev](https://github.com/cryptopunksnotdead) ([reddit thread](https://www.reddit.com/r/dumbmeta/comments/ssfnc9/history_corner_dumb_solpunks_and_crypto_writing/))
 
