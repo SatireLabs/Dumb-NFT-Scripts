@@ -1,4 +1,4 @@
-/header.jpg
+![header](header.jpg)
 
 # Is free dumb really free? Yes.
 Yo — Get your free Dumb CryptoPunks! Tweet at us [@DumbMeta](https://twitter.com/dumbmeta) or [@DumbCryptoPunks](https://twitter.com/dumbcryptopunks) or tag us in one of your photos on [IG](https://www.instagram.com/dumbcryptopunks/).
