@@ -1,15 +1,5 @@
 ![header](header.jpg)
 
-*More useful, less dumb NFT scripts may be added over time... Don't hold your breath.*
-
-# Is freedom really free? Yes.
-YO. Get your free Dumb CryptoPunk.
-Tweet to [@DumbMeta](https://twitter.com/dumbmeta) or [@DumbCryptoPunks](https://twitter.com/dumbcryptopunks).
- 
- Too shy? Create an issue asking for one. Get it before we jack up the price to $420B: [OpenSea](https://opensea.io/collection/dumb-cryptopunks), [NFTrade](https://nftrade.com/assets/polygon/0x5dcb640be243ad3967649a4e85f66d3d7c1208ff).
-
- Special thanks to the [OG CryptoPunks tools dev](https://github.com/cryptopunksnotdead) ([reddit thread](https://www.reddit.com/r/dumbmeta/comments/ssfnc9/history_corner_dumb_solpunks_and_crypto_writing/))
-
 # Sloppy scripts for NFT devs
 These are NFT scripts used for [Dumb CryptoPunks](https://dumbcryptopunks.com), an ERC721 NFT on Polygon Network ([contract](https://polygonscan.com/token/0x5dcb640be243ad3967649a4e85f66d3d7c1208ff)). 
 
@@ -24,3 +14,5 @@ They are essentially hacker scripts - cobbled up and get the job done. They are 
 	- Hope this script saves you $3000. The only service that provides anything similar costs 1 ETH to use. Kinda expensive imo.
 
 You may run into some issues (eg nft-multisender.py does not implement checks for checksum addresses, no time.sleep > get_transaction_receipts). But these can be easily added.
+
+Special thanks to the [OG CryptoPunks tools dev](https://github.com/cryptopunksnotdead) ([reddit thread](https://www.reddit.com/r/dumbmeta/comments/ssfnc9/history_corner_dumb_solpunks_and_crypto_writing/))
